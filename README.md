@@ -1,7 +1,7 @@
 ###  :👏:myprofile
-<p align ="center">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0428)](https://solved.ac/kyw0428/)
-</p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0428)](https://solved.ac/kyw0428/)
+
 
 
 ###  :muscle:Skills
