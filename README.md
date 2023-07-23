@@ -1,10 +1,8 @@
 ###  :muscle:Skills
 
 <p align ="center">
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-<a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/dart-0175C?style=flat&logo=dart&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
 ### :seedling: Studying
 
 <p align ="center">
