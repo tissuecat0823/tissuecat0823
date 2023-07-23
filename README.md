@@ -1,4 +1,4 @@
-<div style="height = 100px;">
+<div style="height: 100px;">
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0428)](https://solved.ac/kyw0428/)
 </div>
 
