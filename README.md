@@ -9,9 +9,9 @@
 <p align ="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-### :seedling: Studying
 </p>
 <p align ="center">
+### :seedling: Studying
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
     
 
@@ -19,11 +19,6 @@
 
 
 <p align ="center">
-
-![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=여러분의 깃 닉네임&show_icons=true&theme=radical)
-
-
-
 
 
 ###  :mailbox: Contact
