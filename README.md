@@ -1,7 +1,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0428)](https://solved.ac/kyw0428/)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tissuecat0823&show_icons=true&theme=radical)</br>
-<img src="https://img.shields.io/badge/python-007396?style=flat-square&logo=python&logoColor=#3776AB"/></br>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=python&logoColor=white"/>
 
 <!--
