@@ -10,11 +10,6 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
-<p align ="center">
-### :seedling: Studying
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
-    
-
 ###  :hammer:Tools
 
 
