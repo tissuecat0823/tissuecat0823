@@ -1,8 +1,9 @@
 ##  👏Hello World!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0428)](https://solved.ac/kyw0428/)</br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/Threads-3D3D3D?style=flat&logo=Threads&logoColor=white">
+<a></a>
+<a href="https://www.instagram.com/yewon04_28/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+<a href="https://www.threads.net/@yewon04_28"><img src="https://img.shields.io/badge/Threads-3D3D3D?style=flat&logo=Threads&logoColor=white"></a>
 <a href="mailto:kyw0428@gnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" ></a>
 
 ## ✍️Languages
@@ -19,6 +20,7 @@
 
 ## ⚙️Tools
 <p>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=android studio&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-F29D00?style=flat&logo=firebase&logoColor=white">
