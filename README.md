@@ -1,6 +1,8 @@
 ##  👏Hello World!
-<p align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0428)](https://solved.ac/kyw0428/)</br>
+
+<p align="center">
 <a href="https://www.instagram.com/yewon04_28/"><img src="https://img.shields.io/badge/ Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 <a href="https://www.threads.net/@yewon04_28"><img src="https://img.shields.io/badge/ Threads-3D3D3D?style=flat&logo=Threads&logoColor=white"></a>
 <a href="mailto:kyw0428@gnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/ Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" ></a>
