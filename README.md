@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"></br>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=android studio&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=android studio&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Firebase-F29D00?style=flat&logo=firebase&logoColor=white"></br>
   <img src="https://img.shields.io/badge/Javascript-FFCC00?style=flat&logo=javascript&logoColor=white">  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
