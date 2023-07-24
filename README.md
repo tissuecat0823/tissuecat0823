@@ -1,4 +1,4 @@
-###  👏Hello World!
+#  👏Hello World!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0428)](https://solved.ac/kyw0428/)
 
