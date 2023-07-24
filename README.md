@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0428)](https://solved.ac/kyw0428/)</br>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=Threads&logoColor=white">
+<img src="https://img.shields.io/badge/Threads-3D3D3D?style=flat&logo=Threads&logoColor=white">
 <a href="mailto:kyw0428@gnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" ></a>
 
 ## ✍️Languages
