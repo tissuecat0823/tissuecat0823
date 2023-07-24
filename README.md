@@ -20,7 +20,8 @@
 
 ## ⚙️Tools
 <p>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=android studio&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-F29D00?style=flat&logo=firebase&logoColor=white">
