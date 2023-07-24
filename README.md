@@ -8,6 +8,8 @@
 ## ✍️Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
