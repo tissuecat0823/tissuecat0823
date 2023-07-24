@@ -1,7 +1,9 @@
-###  👏myprofile
+###  👏Hello World!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyw0428)](https://solved.ac/kyw0428/)
 
+## ✍️Languages
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 <!--
 **tissuecat0823/tissuecat0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
