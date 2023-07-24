@@ -4,11 +4,11 @@
 
 ## ✍️Languages
 <p>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">  
 </p>
 
 <!--
